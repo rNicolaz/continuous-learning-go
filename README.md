@@ -1,2 +1,2 @@
 # continuous-learning-go
-Aprendendo GO.
+Learning GO.
